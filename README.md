@@ -1,2 +1,2 @@
 # Manual-RMCA
-Códigos del Manual Robot Móvil Chasis de Aluminio
+Códigos del Manual de prácticas para el KB Robot Móvil Chasis de Aluminio
